@@ -1,0 +1,40 @@
+Zadanie 1  : C
+Zadanie 2  : B
+Zadanie 3  : A
+Zadanie 4  : B, C
+Zadanie 5  : D
+Zadanie 6  : D
+Zadanie 7  : A, C
+Zadanie 8  : C
+Zadanie 9  : A
+Zadanie 10 : B
+Zadanie 11 : B, C, D
+Zadanie 12 : D
+Zadanie 13 : D
+Zadanie 14 : B
+Zadanie 15 : C
+Zadanie 16 : D
+Zadanie 17 : E
+Zadanie 18 : A
+Zadanie 19 : D
+Zadanie 20 : D
+Zadanie 21 : A
+Zadanie 22 : C
+Zadanie 23 : C
+Zadanie 24 : A
+Zadanie 25 : B "Dziwactwo z dwoma takimi samymi odp."
+Zadanie 26 : E
+Zadanie 27 : A
+Zadanie 28 : D
+Zadanie 29 : E
+Zadanie 30 : D or E ( might be compailer error )
+Zadanie 31 : C or D ( might be compailer error )
+Zadanie 32 : D or B ( might be compailer error )
+Zadanie 33 : A, B, E, F ( weird B --> int )
+Zadanie 34 : B
+Zadanie 35 : A, B, C, F      Żarty se robią czy co ? ( look 33 ) Praktycznie to samo tylko B --> int i odpowiedzi pozamieniane !
+Zadanie 36 : D
+Zadanie 37 : A 
+Zadanie 38 : D
+Zadanie 39 : D
+Zadanie 40 : C
